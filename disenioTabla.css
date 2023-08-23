@@ -1,0 +1,35 @@
+.table {
+    text-align: center;
+    width: 100%;
+    border: 1px solid rgb(22, 22, 22);
+    background-color: rgb(31, 138, 192);
+ }
+
+ th, td {
+    width: 25%;
+    text-align:center;
+    border: 1px solid rgb(244, 240, 240);
+ }
+
+ #id {
+    text-align: center;
+ }
+
+
+ #firstName {
+    text-align: center;
+ }
+
+ #lastName {
+    text-align: center;
+ }
+
+ #email {
+    text-align: center;
+ }
+
+#avatar {
+   display: block;
+   margin: auto;
+   border-radius: 80px;
+}
